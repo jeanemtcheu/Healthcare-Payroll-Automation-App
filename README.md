@@ -181,7 +181,7 @@ Planned improvements include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/healthcare-payroll-automation.git
+git clone https://github.com/jeanemtcheu/healthcare-payroll-automation.git
 ```
 
 Navigate into the project directory:
